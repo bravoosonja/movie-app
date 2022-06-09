@@ -13,5 +13,6 @@
 
 # Lessons Learned
 - Creating custom hooks & naming convention for custom hooks
+- The use of PropTypes
 
 # Acknowledgement
