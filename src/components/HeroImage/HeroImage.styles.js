@@ -12,7 +12,6 @@ export const Wrapper = styled.div`
   height: 900px;
   position: relative;
   animation: animateHeroImage 1s;
-  padding: 1rem;
 
   @keyframes animateHeroImage {
     from {

@@ -6,8 +6,10 @@ export const Wrapper = styled.div`
   justify-content: center;
   width: 100%;
   height: 70px;
-  background: var(--medGrey);
+  background: transparent;
   color: var(--white);
+  position: relative;
+  z-index: 2;
 `;
 
 export const Content = styled.div`
@@ -17,7 +19,7 @@ export const Content = styled.div`
   padding: 0 20px;
 
   span {
-    font-size: var(--fontMed);
+    font-size: var(--fontS);
     color: var(--white);
     padding-right: 10px;
 

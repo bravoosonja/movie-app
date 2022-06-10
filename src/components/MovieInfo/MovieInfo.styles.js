@@ -58,6 +58,7 @@ export const Text = styled.div`
 
   .director {
     margin: 0 0 0 40px;
+    font-weight: 600;
 
     p {
       margin: 0;
@@ -65,7 +66,7 @@ export const Text = styled.div`
 
     h1 {
       @media screen and (max-width: 768px) {
-        font-size: var(--fontBig);
+        font-size: var(--fontL);
       }
     }
   }

@@ -2,7 +2,7 @@ import { createGlobalStyle } from "styled-components";
 
 export const GlobalStyle = createGlobalStyle`
     :root {
-        --maxWidth:1280px;
+        --maxWidth:1480px;
         --red:#ff0040;
         --gray: #0e1014;
         --black: #090a0d;
@@ -15,7 +15,7 @@ export const GlobalStyle = createGlobalStyle`
 
     * {
         box-sizing: border-box;
-        font-family: 'Raleway', sans-serif;
+        font-family: 'Inter', sans-serif;
     }
 
     body {
@@ -26,7 +26,7 @@ export const GlobalStyle = createGlobalStyle`
 
         h1 {
             font-size: 2rem;
-            font-weight: 600;
+            font-weight: 900;
           
         }
 
@@ -37,7 +37,7 @@ export const GlobalStyle = createGlobalStyle`
 
         p {
             font-size: 1rem;
-          
+            font-weight: 400;
         }
     }
 `;
