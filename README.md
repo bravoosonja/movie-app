@@ -4,7 +4,7 @@
 - Displays popular movies
 
 ## Demo
-[Demo](https://62a2c00b3d7f825543a1c40b--bright-parfait-e0cd13.netlify.app/)
+[Live Demo](https://62a2c00b3d7f825543a1c40b--bright-parfait-e0cd13.netlify.app/)
 # Skills used
 - React
  - Create custom hooks
