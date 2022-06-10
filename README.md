@@ -7,7 +7,7 @@ The objective of this project is to practice fetching data from an external API.
 - Mobile responsive
 ## Demo
 [Live Demo](https://master--bright-parfait-e0cd13.netlify.app/)
-![Demo gif]("/")
+![Demo gif](demo.gif)
 # Skills used
 - React
     - Fetch data from an external API
