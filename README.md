@@ -19,5 +19,5 @@ The objective of this project is to practice fetching data from an external API.
 - Creating custom hooks & naming convention for custom hooks
 - The use of PropTypes
 # Acknowledgement
-[Movie API](https://www.themoviedb.org/)
-[Design Inspiration](https://www.behance.net/gallery/71530139/AMC-Cinema-Website-App)
+- [Movie API](https://www.themoviedb.org/)
+- [Design Inspiration](https://www.behance.net/gallery/71530139/AMC-Cinema-Website-App)
