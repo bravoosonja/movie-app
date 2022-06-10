@@ -1,8 +1,10 @@
 import styled from "styled-components";
 
+// Logos
+
 export const Wrapper = styled.div`
-  background: var(--darkGrey);
-  padding: 0 20px;
+  background-color: var(--black);
+  height: 200px;
 `;
 
 export const Content = styled.div`
@@ -10,7 +12,7 @@ export const Content = styled.div`
   align-items: center;
   justify-content: space-between;
   max-width: var(--maxWidth);
-  padding: 20px 0;
+  padding: 50px 0;
   margin: 0 auto;
 `;
 

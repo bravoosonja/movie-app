@@ -1,11 +1,21 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import PropTypes from "prop-types";
 //Styles
-import { Wrapper, Content, Text } from "./HeroImage.styles";
+import {
+  Wrapper,
+  Content,
+  Text,
+  HeaderWrapper,
+  HeaderContent,
+} from "./HeroImage.styles";
 
 const HeroImage = ({ image, title, text }) => (
   <Wrapper image={image}>
     <Content>
+      <HeaderWrapper>
+        <HeaderContent></HeaderContent>
+      </HeaderWrapper>
       <Text>
         <h1>{title}</h1>
         <p>{text}</p>
