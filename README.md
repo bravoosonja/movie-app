@@ -6,8 +6,7 @@ The objective of this project is to practice fetching data from an external API.
 - Search for movies
 - Mobile responsive
 ## Demo
-[Live Demo](https://62a2c00b3d7f825543a1c40b--bright-parfait-e0cd13.netlify.app/](https://master--bright-parfait-e0cd13.netlify.app/)
-
+(Live Demo)[https://master--bright-parfait-e0cd13.netlify.app/]
 ![Demo gif]("/")
 # Skills used
 - React
